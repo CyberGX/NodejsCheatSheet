@@ -9,5 +9,6 @@ It was just created and will be actively updated. Please fork and submit your pu
 
 ## Packages
 
+- [Body-Parser](Packages/body-parser.md)
 - [FS-Extra](Packages/fs-extra.md)
 - [Express-Session](Packages/express-session.md)

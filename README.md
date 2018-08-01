@@ -16,10 +16,13 @@ It was just created and will be actively updated. Please fork and submit your pu
 
 ## Built-in Modules
 
-- [Http](Packages/built-in/http.md)
+- [Http](Packages/built-in/http.md) - هرگونه کار با درخواست های HTTP
 
 ## Packages
 
-- [Body-Parser](Packages/body-parser.md)
-- [FS-Extra](Packages/fs-extra.md)
-- [Express-Session](Packages/express-session.md)
+- [Body-Parser](Packages/body-parser.md) - جهت دسترسی به مقادیر درون درخواست های ارسالی کاربر
+- [Cookie-Parser](Packages/cookie-parser.md) - مدیریت کوکی های مرورگر
+- [Express-Session](Packages/express-session.md) - مدیریت سشن ها
+- [Express-Validation](Packages/express-validation.md) - اعتبارسنجی مقادیر
+- [FS-Extra](Packages/fs-extra.md) - کتابخانه بهبود یافته جایگزین FS
+- [Mongoose](Packages/mongoose.md) - جهت ارتباط با بانک اطلاعاتی MongoDB
